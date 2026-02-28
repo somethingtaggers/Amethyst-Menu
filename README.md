@@ -11,7 +11,7 @@ AMT Menu
     <img src="https://img.shields.io/badge/DISCORD-100+_MEMBERS-8b5cf6?style=for-the-badge" />
   </a>
 </p>
-AMT Menu is a feature-packed mod menu for Gorilla Tag, built by me, iiDk.
+AMT Menu is a feature-packed mod menu for Gorilla Tag, built by me, Ghost.
 Whether you just want mods, are a developer, or anything in between, this menu has you covered. Designed to be as useful as possible, it includes a wide variety of features and options that let you customize your modding experience to your heart’s content.
 
 Why settle for boring when you can have stupidly good?
